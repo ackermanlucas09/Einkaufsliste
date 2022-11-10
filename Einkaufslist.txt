@@ -1,3 +1,7 @@
 Apfel
 Mandarine
 Birne
+Brot
+Milch
+Butter
+Nutella
